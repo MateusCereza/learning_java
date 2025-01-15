@@ -5,9 +5,5 @@ public class variavel {
       String nome = "Mateus";
 
       System.out.println(nome);
-      class Innervariavel {
-      
-        
-      }
     }
 }
